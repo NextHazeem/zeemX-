@@ -1,0 +1,8 @@
+{
+  "name": "zeemX",
+  "description": "A quiet space to think, create, and remember. A calm, distraction-free productivity suite with an Islamic heart.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
